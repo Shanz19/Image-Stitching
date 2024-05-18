@@ -19,4 +19,5 @@ This project focuses on image stitching using key point detection, matching desc
 - **Brute Force Matching**: Distance between descriptors is computed using a brute force matcher.
 - **Robust Matching**: Minimum distances are used to track key points between Image 1 and Image 2.
 - **Rotation and Scale Invariance**: The results demonstrate that SIFT operator can robustly match images even under rotation or scale transformations.
+<img width="581" alt="Screenshot 2024-05-18 at 5 19 31 PM" src="https://github.com/Shanz19/Image-Stitching/assets/117365514/d0829011-594c-42fd-acce-2e89f3deee41">
 
