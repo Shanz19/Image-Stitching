@@ -14,8 +14,10 @@ This project focuses on image stitching using key point detection, matching desc
 - **SIFT Key Point Detection**: SIFT algorithm is utilized to identify key points.
 - **Key points of image 1 and 2**:
 <img width="581" alt="Screenshot 2024-05-18 at 5 19 31 PM" src="https://github.com/Shanz19/Image-Stitching/assets/117365514/d0829011-594c-42fd-acce-2e89f3deee41">
+
 - **Key points of image 2 and 3**:
 <img width="633" alt="Screenshot 2024-05-18 at 5 19 42 PM" src="https://github.com/Shanz19/Image-Stitching/assets/117365514/94c80e29-2005-4684-8f16-f66065ef1552">
+
 - **Key Point Statistics**:
   - Image 1: 1354 keypoints
   - Image 2: 2033 keypoints
